@@ -1,2 +1,0 @@
-word txt
-1 2 rer
